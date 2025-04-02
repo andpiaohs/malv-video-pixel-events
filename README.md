@@ -6,7 +6,7 @@ As part of the Pixel Remediation work, this repository contains noteworthy Kiban
 ## Setup
 Each set of data is organized as its own directory with the logs found for a particular `action_group_id`. This identifier value represents a set of logs associated with a particular session and is set when the Malv script initializes.
 
-Each data set will contain:
+Each data set will include all the logging events for one `action_group_id` with the following files and their respesctive timestamps:
 - video playback events
 - pixel firing events
 - VAST XML responses (if available)
