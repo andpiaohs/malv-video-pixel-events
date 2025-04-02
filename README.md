@@ -13,3 +13,8 @@ Each data set will contain:
 
 ## Objective
 The goal of this investigation is to establish a link between pixel firing events and video playback events collected by the Malv script in order to assess whether our FS pixels are firing in the correct timing.
+
+## Data sets key
+|---|---|---|
+|Data set| action_group_id | Notes |
+| 1 | 661dfdfd-4b4e-bf30-c8d9-1615a24af9e5 | |
