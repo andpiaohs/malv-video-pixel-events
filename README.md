@@ -1,4 +1,4 @@
-# malv-pixel-video-events
+# malv-video-pixel-events
 
 As part of the Pixel Remediation work, this repository contains noteworthy Kibana logs ran from the Malv script relating to pixel firing events, video playback events, and associated VAST responses. 
 
